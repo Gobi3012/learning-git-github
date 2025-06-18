@@ -11,6 +11,8 @@ This is footnote[^1]. Another footnote[^2].
 [^1]:My reference
 [^2]:Another footnote
 
+I am adding new line 
+
 **Table**
 
 | Left  | Center | Right   |
